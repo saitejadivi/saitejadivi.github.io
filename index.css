@@ -1,0 +1,36 @@
+h1{
+    font-family:Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("/Users/saitejadivi/Downloads/SAITEJA_DIVI/Off-Platform Project- Dasmoto's Arts & Crafts/resources/images/image 1.webp");
+}
+.brushes{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+
+    background-color: mediumspringgreen;
+}
+.frames{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+
+    background-color:lightcoral;
+
+}
+.paints{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+
+    background-color: skyblue;
+}
+span{
+    color: blue;
+}
